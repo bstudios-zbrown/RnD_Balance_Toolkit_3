@@ -1,9 +1,10 @@
 {
-"name": "com.balance.ui-transitions",
-"displayName": "UI Transitions",
-"description": "Faster implementation for simple UI Animation",
-"version": "1.0.1",
-"unity": "2022.3",
-"dependencies": {
- }
+  "name": "com.balance.ui-transitions",
+  "displayName": "UI Transitions",
+  "description": "Faster implementation for simple UI Animation",
+  "version": "1.0.2",
+  "unity": "2022.3",
+  "license": "MIT",
+  "dependencies": {
+  }
 }
