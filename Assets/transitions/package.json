@@ -1,0 +1,9 @@
+{
+"name": "com.balance.ui-transitions",
+"displayName": "UI Transitions",
+"description": "Faster implementation for simple UI Animation",
+"version": "1.0.1",
+"unity": "2022.3",
+"dependencies": {
+ }
+}
