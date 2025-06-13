@@ -2,7 +2,7 @@
   "name": "com.balance.rotate-me",
   "displayName": "Rotate Me",
   "description": "Rotate the object!",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {
